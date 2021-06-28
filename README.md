@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cr1zzi
+- 👀 I’m interested in web developing and web designing.
+- 🌱 I’m currently learning React and other stuff :D
